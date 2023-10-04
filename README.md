@@ -8,7 +8,7 @@ Este es un proyecto de Java 8 que simula un catálogo de películas de una tiend
 - Listar todas las películas disponibles.
 - Buscar películas por título (búsqueda por similitud de caracteres).
 - Guardar y cargar el catálogo desde un archivo de texto.
-- Operaciones simples y amigables en la consola.
+
 
 ## Requisitos
 
